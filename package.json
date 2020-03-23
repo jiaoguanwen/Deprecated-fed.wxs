@@ -1,0 +1,24 @@
+{
+  "name": "fed.wxs",
+  "version": "1.0.0",
+  "description": "wechat miniprogram wxs lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaoguanwen/fed.wxs.git"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "wxs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaoguanwen/fed.wxs/issues"
+  },
+  "homepage": "https://github.com/jiaoguanwen/fed.wxs#readme"
+}
